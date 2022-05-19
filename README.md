@@ -8,3 +8,5 @@ Call them something that actually represents what would increase or decrease the
 
 Last, write a method that prints out the cat's status in each area. </br>
 *(Be creative e.g. Paws is really hungry, Paws is VERY happy.)* </br>
+
+* main method: [pet_cat.js](pet_cat.js)
