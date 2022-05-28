@@ -1,0 +1,23 @@
+{
+  "name": "js_pet-cat",
+  "version": "1.0.0",
+  "description": "**Create an object that represents a cat.** </br> It should have properties for tiredness, hunger, loneliness, and happiness </br>",
+  "main": "pet_cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jematormal91/JS_pet-cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jematormal91/JS_pet-cat/issues"
+  },
+  "homepage": "https://github.com/Jematormal91/JS_pet-cat#readme",
+  "devDependencies": {
+    "moment": "^2.29.3"
+  }
+}
